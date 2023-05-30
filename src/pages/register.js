@@ -121,7 +121,7 @@ const Register = () => {
               // height: window.innerHeight,
             }}
           >
-            <p>Already have account! <Link to={`login`}>Login</Link></p>
+            <p>Already have account! <Link to={`/login`}>Login</Link></p>
           </div>
         </div>
       </Card>

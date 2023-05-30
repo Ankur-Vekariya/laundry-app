@@ -37,3 +37,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* @import "~antd/dist/antd.css"; */
+/* @import url("https://fonts.googleapis.com/css?family=Open+Sans"); */
+.App {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+.content {
+  padding: 1rem;
+}
